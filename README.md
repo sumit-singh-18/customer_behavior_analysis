@@ -105,15 +105,5 @@ A polished presentation summarizing the project, insights, dashboard highlights,
 
 These insights support marketing, pricing, and customer retention strategies.
 
----
-
-## **How to Run This Project**
-
-1. Open the project notebook in JupyterLab to review data loading, EDA, and cleaning steps.
-2. Import the cleaned dataset into MySQL using MySQL Workbench.
-3. Run SQL queries to analyze customer behavior.
-4. Open the Power BI file and refresh data to view all dashboards.
-5. Review the final insights presentation created in Gamma.
-
 
 
